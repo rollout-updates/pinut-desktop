@@ -1,3 +1,3 @@
-﻿<!-- Comentário permanente: Construção de código e descrição prioridade IA_FIRST. Este arquivo deve permanecer útil para manutenção e evolução por IA a partir do código atual. -->
+﻿<!-- Permanent comment: Code construction and description priority IA_FIRST. This file must remain useful for maintenance and evolution by AI from the current code. -->
 
 # Pinut Desktop Store Setup Hosting
